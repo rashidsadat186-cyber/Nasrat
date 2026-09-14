@@ -1,0 +1,19 @@
+{
+  "name": "دفتر کهاته سلطان",
+  "short_name": "کهاته سلطان",
+  "description": "مدیریت حساب‌ها",
+  "start_url": "./دفتر_کهاته_سلطان_کامل_اصلاح_شده.html",
+  "display": "standalone",
+  "background_color": "#ff1010",
+  "theme_color": "#ff1010",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": [
+    {
+      "src": "sultan-icon-bright.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
